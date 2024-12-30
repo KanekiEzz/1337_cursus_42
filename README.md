@@ -4,6 +4,8 @@
 <br>
 <br>
 <br>
+## projects | grap
+![Fractal mono-colored Mandelbrot](https://raw.githubusercontent.com/KanekiEzz/1337_cursus_42/refs/heads/main/Screen%20Shot%202024-12-30%20at%2012.39.50%20PM.png)
 # COMMON CORE 🧠 
 <br>
 <br>
