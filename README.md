@@ -27,6 +27,10 @@
 # 📖 Get_Next_Line <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 ► [Project description and code](https://github.com/KanekiEzz/1337_Get_Next_Line_42 )
 <br>
+<br>
+# 🎮 Fractol <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+► [Project description and code](https://github.com/gemartin99/1337_Fractol_42)
+<br>
 <!--  
 <br>
 # 📶 Minitalk <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
@@ -35,10 +39,6 @@
 <br>
 # 🔢 Push_swap <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 ► [Project description and code](https://github.com/gemartin99/Push_swap)
-<br>
-<br>
-# 🎮 So_long <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
-► [Project description and code](https://github.com/gemartin99/So_long)
 <br>
 <br>
 # 🍴 Philosophers <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
@@ -79,6 +79,7 @@
 
 # 👨🏻‍🎓 Exam Rank 02 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 
+<!--  
 # 👨🏻‍🎓 Exam Rank 03 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 
 # 👨🏻‍🎓 Exam Rank 04 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
@@ -87,7 +88,6 @@
 
 # 👨🏻‍🎓 Exam Rank 06 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 <br>
-<!--  
 # OUT CORE 🌟
 <br>
 -->
