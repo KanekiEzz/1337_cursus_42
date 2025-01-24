@@ -82,9 +82,9 @@
 
 # 👨🏻‍🎓 Exam Rank 02 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 
-<!--  
 # 👨🏻‍🎓 Exam Rank 03 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 
+<!--  
 # 👨🏻‍🎓 Exam Rank 04 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 
 # 👨🏻‍🎓 Exam Rank 05 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
