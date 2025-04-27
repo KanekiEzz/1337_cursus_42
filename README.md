@@ -31,6 +31,7 @@
 | Project | Status | Link |
 |---------|--------|------|
 | **Philosophers** | ✅ Completed | [View Code](https://github.com/KanekiEzz/1337_Philosophers_42) |
+| **Minishell**    | ✅ Completed | [View Code](https://github.com/KanekiEzz/1337_Minishell_42)    |
 
 ---
 
@@ -39,5 +40,6 @@
 |---------|--------|------|
 | **📝 Rank 02** | ✅ Completed | [View Code](https://github.com/KanekiEzz/Leet_02) |
 | **📝 Rank 03** | ✅ Completed | [View Code](https://github.com/KanekiEzz/Leet_03) |
+| **📝 Rank 04** | ✅ Completed | [View Code](https://github.com/KanekiEzz/Leet_04) |
 
 ---
