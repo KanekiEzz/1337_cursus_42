@@ -5,7 +5,7 @@
 <div align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/iezzam" alt="iezzam's 42 stats" /></a>
   
-  ![Progress Graph](https://raw.githubusercontent.com/KanekiEzz/1337_cursus_42/refs/heads/main/graph.png)
+  ![Progress Graph](https://raw.githubusercontent.com/KanekiEzz/1337_cursus_42/refs/heads/main/graph1.png)
 </div>
 
 ---
