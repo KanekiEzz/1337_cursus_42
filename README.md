@@ -27,7 +27,7 @@
 | **Push_swap** | ✅ Completed | [View Code](https://github.com/KanekiEzz/1337-Push_swap-42) |
 | **Pipex** | ✅ Completed | [View Code](https://github.com/KanekiEzz/1337_Pipex_42) |
 
-### 🔥
+### 🔥 Advanced
 | Project | Status | Link |
 |---------|--------|------|
 | **Philosophers** | ✅ Completed | [View Code](https://github.com/KanekiEzz/1337_Philosophers_42) |
