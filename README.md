@@ -33,6 +33,11 @@
 | **Philosophers** | ✅ Completed | [View Code](https://github.com/KanekiEzz/1337_Philosophers_42) |
 | **Minishell**    | ✅ Completed | [View Code](https://github.com/KanekiEzz/1337_Minishell_42)    |
 
+### 🌐 Networking
+| Project | Status | Link |
+|---------|--------|------|
+| **Netpractice** | ✅ Completed | [View Code](https://github.com/KanekiEzz/1337_Netpractice_42) |
+
 ---
 
 ###  🎯 Exams
