@@ -37,6 +37,7 @@
 | Project | Status | Link |
 |---------|--------|------|
 | **Netpractice** | ✅ Completed | [View Code](https://github.com/KanekiEzz/1337_Netpractice_42) |
+| **Cub3D**       | ✅ Completed | [View Code](https://github.com/KanekiEzz/1337_Cub3D_42) |
 
 ---
 
