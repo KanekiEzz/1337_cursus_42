@@ -3,10 +3,10 @@
 <div align="center">
 
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                    🚀 SOFTWARE ENGINEERING MASTERY 🚀        ║
-║                         42 Network Curriculum               ║
-╚══════════════════════════════════════════════════════════════╝
+    ╔══════════════════════════════════════════════════════════════╗
+    ║                    🚀 SOFTWARE ENGINEERING MASTERY 🚀        ║
+    ║                         42 Network Curriculum                ║
+    ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
@@ -720,7 +720,7 @@
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
 ║  "In the realm of code, we don't just solve problems—        ║
-║   we engineer the future, one algorithm at a time."         ║
+║   we engineer the future, one algorithm at a time."          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
