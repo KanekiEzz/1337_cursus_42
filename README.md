@@ -1,10 +1,12 @@
+<div align="center">
+    
 # 🌟 42 School Engineering Excellence Portfolio
-
+</div>
 <div align="center">
 
 ```ascii
     ╔══════════════════════════════════════════════════════════════╗
-    ║                    🚀 SOFTWARE ENGINEERING MASTERY 🚀        ║
+    ║                   🚀 SOFTWARE ENGINEERING MASTERY 🚀          ║
     ║                         42 Network Curriculum                ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -68,8 +70,8 @@
 <tr>
 <td>
 <strong>🔥 Libft</strong><br>
-<em>Custom C Standard Library</em><br>
-<code>Memory Architecture</code>
+<!-- <em>Custom C Standard Library</em><br>
+<code>Memory Architecture</code> -->
 </td>
 <td>
 <div align="center">
@@ -85,8 +87,8 @@
 </td>
 <td>
 <code>C Programming</code><br>
-<code>Memory Management</code><br>
-<code>Data Structures</code>
+<!-- <code>Memory Management</code><br>
+<code>Data Structures</code> -->
 </td>
 <td>
 <em>Custom memory allocators & optimized string operations</em>
@@ -96,8 +98,8 @@
 <tr>
 <td>
 <strong>🔒 Born2beroot</strong><br>
-<em>System Administration</em><br>
-<code>DevOps Foundation</code>
+<!-- <em>System Administration</em><br>
+<code>DevOps Foundation</code> -->
 </td>
 <td>
 <div align="center">
@@ -113,8 +115,8 @@
 </td>
 <td>
 <code>Linux Administration</code><br>
-<code>Virtualization</code><br>
-<code>Security Protocols</code>
+<!-- <code>Virtualization</code><br>
+<code>Security Protocols</code> -->
 </td>
 <td>
 <em>Zero-trust security architecture implementation</em>
@@ -124,8 +126,8 @@
 <tr>
 <td>
 <strong>📝 ft_printf</strong><br>
-<em>Advanced String Formatting</em><br>
-<code>System Programming</code>
+<!-- <em>Advanced String Formatting</em><br>
+<code>System Programming</code> -->
 </td>
 <td>
 <div align="center">
@@ -173,8 +175,8 @@
 <tr>
 <td>
 <strong>📖 Get_Next_Line</strong><br>
-<em>Advanced File Processing</em><br>
-<code>I/O Optimization</code>
+<!-- <em>Advanced File Processing</em><br>
+<code>I/O Optimization</code> -->
 </td>
 <td>
 <div align="center">
@@ -201,8 +203,8 @@
 <tr>
 <td>
 <strong>🌀 Fractol</strong><br>
-<em>Mathematical Visualization</em><br>
-<code>Graphics Programming</code>
+<!-- <em>Mathematical Visualization</em><br>
+<code>Graphics Programming</code> -->
 </td>
 <td>
 <div align="center">
@@ -229,8 +231,8 @@
 <tr>
 <td>
 <strong>🔄 Push_swap</strong><br>
-<em>Algorithm Optimization</em><br>
-<code>Computational Efficiency</code>
+<!-- <em>Algorithm Optimization</em><br>
+<code>Computational Efficiency</code> -->
 </td>
 <td>
 <div align="center">
@@ -257,8 +259,8 @@
 <tr>
 <td>
 <strong>🔗 Pipex</strong><br>
-<em>Inter-Process Communication</em><br>
-<code>System Architecture</code>
+<!-- <em>Inter-Process Communication</em><br>
+<code>System Architecture</code> -->
 </td>
 <td>
 <div align="center">
@@ -306,8 +308,8 @@
 <tr>
 <td>
 <strong>🧠 Philosophers</strong><br>
-<em>Concurrent Programming</em><br>
-<code>Parallel Computing</code>
+<!-- <em>Concurrent Programming</em><br>
+<code>Parallel Computing</code> -->
 </td>
 <td>
 <div align="center">
@@ -334,8 +336,8 @@
 <tr>
 <td>
 <strong>🐚 Minishell</strong><br>
-<em>Shell Implementation</em><br>
-<code>System Programming</code>
+<!-- <em>Shell Implementation</em><br>
+<code>System Programming</code> -->
 </td>
 <td>
 <div align="center">
@@ -383,8 +385,8 @@
 <tr>
 <td>
 <strong>🌐 NetPractice</strong><br>
-<em>Network Architecture</em><br>
-<code>Infrastructure Design</code>
+<!-- <em>Network Architecture</em><br>
+<code>Infrastructure Design</code> -->
 </td>
 <td>
 <div align="center">
@@ -400,8 +402,8 @@
 </td>
 <td>
 <code>TCP/IP Protocols</code><br>
-<code>Subnetting</code><br>
-<code>Network Topology</code>
+<!-- <code>Subnetting</code><br>
+<code>Network Topology</code> -->
 </td>
 <td>
 <em>Complex network architecture optimization</em>
@@ -411,8 +413,8 @@
 <tr>
 <td>
 <strong>🎮 Cub3D</strong><br>
-<em>3D Graphics Engine</em><br>
-<code>Game Development</code>
+<!-- <em>3D Graphics Engine</em><br>
+<code>Game Development</code> -->
 </td>
 <td>
 <div align="center">
@@ -459,8 +461,8 @@
 <tr>
 <td>
 <strong>🔥 C++ Modules 00-09</strong><br>
-<em>Complete OOP Mastery</em><br>
-<code>Enterprise Development</code>
+<!-- <em>Complete OOP Mastery</em><br>
+<code>Enterprise Development</code> -->
 </td>
 <td>
 <div align="center">
@@ -508,8 +510,8 @@
 <tr>
 <td>
 <strong>📊 Rank 02 Exam</strong><br>
-<em>Intermediate Mastery</em><br>
-<code>Algorithmic Thinking</code>
+<!-- <em>Intermediate Mastery</em><br>
+<code>Algorithmic Thinking</code> -->
 </td>
 <td>
 <div align="center">
@@ -536,8 +538,8 @@
 <tr>
 <td>
 <strong>🔥 Rank 03 Exam</strong><br>
-<em>Advanced Proficiency</em><br>
-<code>Complex Algorithms</code>
+<!-- <em>Advanced Proficiency</em><br>
+<code>Complex Algorithms</code> -->
 </td>
 <td>
 <div align="center">
@@ -564,8 +566,8 @@
 <tr>
 <td>
 <strong>⚡ Rank 04 Exam</strong><br>
-<em>Expert Mastery</em><br>
-<code>Advanced Optimization</code>
+<!-- <em>Expert Mastery</em><br>
+<code>Advanced Optimization</code> -->
 </td>
 <td>
 <div align="center">
