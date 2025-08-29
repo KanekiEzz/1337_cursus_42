@@ -3,13 +3,15 @@
 # 🌟 42 School Engineering Excellence Portfolio
 </div>
 <div align="center">
-
+<div align="center">
+    
 ```ascii
     ╔══════════════════════════════════════════════════════════════╗
     ║                   🚀 SOFTWARE ENGINEERING MASTERY 🚀          ║
     ║                         42 Network Curriculum                ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+My+42+Journey;Software+Engineering+Excellence;System+Programming+Master;Innovation+Through+Code" alt="Typing SVG" />
@@ -633,6 +635,7 @@
 </table>
 
 ### **Professional Competencies**
+<div align="center">
 
 ```
 🎯 Software Architecture        ████████████████████ 100%
@@ -644,7 +647,7 @@
 📊 Performance Optimization    ████████████████████ 100%
 🤝 Collaborative Development   ████████████████████ 100%
 ```
-
+</div>
 </div>
 
 ---
