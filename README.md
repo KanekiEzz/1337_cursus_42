@@ -29,7 +29,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/KanekiEzz/1337_cursus_42/refs/heads/main/graph1.png" alt="Academic Excellence Trajectory" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,255,65,0.3);" />
+<img src="https://raw.githubusercontent.com/KanekiEzz/1337_cursus_42/refs/heads/main/graph2.png" alt="Academic Excellence Trajectory" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,255,65,0.3);" />
 
 <br><br>
 
