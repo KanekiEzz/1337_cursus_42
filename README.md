@@ -46,7 +46,7 @@
 <div align="center">
 
 | 🏛️ [Foundation](#-foundation-mastery) | 🔧 [Core Systems](#-core-systems-engineering) | ⚡ [Advanced Computing](#-advanced-computing) | 🌐 [Network & Graphics](#-network--graphics-programming) | 🎯 [OOP Mastery](#-object-oriented-programming-mastery) | 📊 [Technical Validation](#-technical-competency-validation) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| :----------------------------------: | :------------------------------------------: | :------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------------: |
 
 </div>
 
@@ -367,6 +367,7 @@
 
 ---
 
+
 ## 🌐 Network & Graphics Programming
 
 <div align="center">
@@ -440,7 +441,69 @@
 </td>
 </tr>
 
+<tr>
+<td>
+<strong>💬 ft_irc</strong><br>
+<!-- <em>Real-time Communication Server</em><br>
+<code>Network Programming</code> -->
+</td>
+<td>
+<div align="center">
+<img src="https://img.shields.io/badge/✅-MASTERED-00FF41?style=for-the-badge&logoColor=white" alt="Completed"/>
+</div>
+</td>
+<td>
+<div align="center">
+<a href="https://github.com/KanekiEzz/1337_ft_irc_42">
+<img src="https://img.shields.io/badge/📁-EXPLORE-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+</div>
+</td>
+<td>
+<code>Socket Programming</code><br>
+<code>IRC Protocol</code><br>
+<code>Multiplexing I/O</code>
+</td>
+<td>
+<em>RFC-compliant IRC server with channel management and authentication</em>
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>🐳 Inception</strong><br>
+<!-- <em>Container Orchestration</em><br>
+<code>DevOps Engineering</code> -->
+</td>
+<td>
+<div align="center">
+<img src="https://img.shields.io/badge/✅-MASTERED-00FF41?style=for-the-badge&logoColor=white" alt="Completed"/>
+</div>
+</td>
+<td>
+<div align="center">
+<a href="https://github.com/KanekiEzz/1337_Inception_42">
+<img src="https://img.shields.io/badge/📁-EXPLORE-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+</div>
+</td>
+<td>
+<code>Docker</code><br>
+<code>Docker Compose</code><br>
+<code>NGINX & WordPress</code>
+</td>
+<td>
+<em>Multi-container infrastructure with TLS, volumes, and custom networks</em>
+</td>
+</tr>
+
 </table>
+
+
+
+
+
+
 
 ---
 
@@ -592,6 +655,30 @@
 <em>Elite-tier computational problem solving</em>
 </td>
 </tr>
+
+
+
+<tr> 
+<td>
+ <strong>🚀 Rank 05 Exam</strong>
+ <br> <!-- <em>Advanced System & Algorithm Challenges</em><br> <code>Complex Problem Solving</code> --> </td>
+  <td>
+   <div align="center">
+    <img src="https://img.shields.io/badge/✅-PASSED-00FF41?style=for-the-badge&logoColor=white" alt="Passed"/>
+     </div>
+      </td>
+       <td> 
+       <div align="center">
+        <a href="https://github.com/KanekiEzz/Leet_05">
+         <img src="https://img.shields.io/badge/📁-SOLUTIONS-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+          </a>
+           </div> 
+           </td> 
+           <td> 
+           <br>
+            <code>PolySet: All 6 files</code>
+           <br> 
+           <code>Algorithms & Problem Solving Implemented robust and efficient solutions under exam constraintss</code> </td> <td> <em>Comprehensive mastery of system programming, object-oriented design, and algorithmic complexity</em> </td> </tr>
 
 </table>
 
