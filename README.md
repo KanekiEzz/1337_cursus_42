@@ -680,6 +680,32 @@
            <br> 
            <code>Algorithms & Problem Solving Implemented robust and efficient solutions under exam constraintss</code> </td> <td> <em>Comprehensive mastery of system programming, object-oriented design, and algorithmic complexity</em> </td> </tr>
 
+<tr>
+<td>
+<strong>⚡ Rank 06 Exam</strong><br>
+</td>
+<td>
+<div align="center">
+<img src="https://img.shields.io/badge/✅-PASSED-00FF41?style=for-the-badge&logoColor=white" alt="Passed"/>
+</div>
+</td>
+<td>
+<div align="center">
+<a href="https://github.com/KanekiEzz/Leet_06">
+<img src="https://img.shields.io/badge/📁-SOLUTIONS-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+</div>
+</td>
+<td>
+<code>Socket Programming</code><br>
+<code>Mini Server Architecture</code><br>
+<code>System-Level Programming</code>
+</td>
+<td>
+<em>Successfully completed Rank 06 Mini Server exam</em>
+</td>
+</tr>
+
 </table>
 
 ---
