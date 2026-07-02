@@ -1,17 +1,13 @@
 <div align="center">
-    
+
 # 🌟 42 School Engineering Excellence Portfolio
-</div>
-<div align="center">
-<div align="center">
-    
+
 ```ascii
     ╔══════════════════════════════════════════════════════════════╗
     ║                   🚀 SOFTWARE ENGINEERING MASTERY 🚀          ║
     ║                         42 Network Curriculum                ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+My+42+Journey;Software+Engineering+Excellence;System+Programming+Master;Innovation+Through+Code" alt="Typing SVG" />
@@ -45,8 +41,8 @@
 
 <div align="center">
 
-| 🏛️ [Foundation](#-foundation-mastery) | 🔧 [Core Systems](#-core-systems-engineering) | ⚡ [Advanced Computing](#-advanced-computing) | 🌐 [Network & Graphics](#-network--graphics-programming) | 🎯 [OOP Mastery](#-object-oriented-programming-mastery) | 📊 [Technical Validation](#-technical-competency-validation) |
-| :----------------------------------: | :------------------------------------------: | :------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------------: |
+| 🏛️ [Foundation](#-foundation-mastery) | 🔧 [Core Systems](#-core-systems-engineering) | ⚡ [Advanced Computing](#-advanced-computing) | 🌐 [Network & Graphics](#-network--graphics-programming) | 🎯 [OOP Mastery](#-object-oriented-programming-mastery) | 💻 [Web Application](#-full-stack-web-application) | 📊 [Technical Validation](#-technical-competency-validation) |
+| :----------------------------------: | :------------------------------------------: | :------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------: | :---------------------------------------------------------: |
 
 </div>
 
@@ -71,9 +67,7 @@
 
 <tr>
 <td>
-<strong>🔥 Libft</strong><br>
-<!-- <em>Custom C Standard Library</em><br>
-<code>Memory Architecture</code> -->
+<strong>🔥 Libft</strong>
 </td>
 <td>
 <div align="center">
@@ -88,9 +82,7 @@
 </div>
 </td>
 <td>
-<code>C Programming</code><br>
-<!-- <code>Memory Management</code><br>
-<code>Data Structures</code> -->
+<code>C Programming</code>
 </td>
 <td>
 <em>Custom memory allocators & optimized string operations</em>
@@ -99,9 +91,7 @@
 
 <tr>
 <td>
-<strong>🔒 Born2beroot</strong><br>
-<!-- <em>System Administration</em><br>
-<code>DevOps Foundation</code> -->
+<strong>🔒 Born2beroot</strong>
 </td>
 <td>
 <div align="center">
@@ -116,9 +106,7 @@
 </div>
 </td>
 <td>
-<code>Linux Administration</code><br>
-<!-- <code>Virtualization</code><br>
-<code>Security Protocols</code> -->
+<code>Linux Administration</code>
 </td>
 <td>
 <em>Zero-trust security architecture implementation</em>
@@ -127,9 +115,7 @@
 
 <tr>
 <td>
-<strong>📝 ft_printf</strong><br>
-<!-- <em>Advanced String Formatting</em><br>
-<code>System Programming</code> -->
+<strong>📝 ft_printf</strong>
 </td>
 <td>
 <div align="center">
@@ -176,9 +162,7 @@
 
 <tr>
 <td>
-<strong>📖 Get_Next_Line</strong><br>
-<!-- <em>Advanced File Processing</em><br>
-<code>I/O Optimization</code> -->
+<strong>📖 Get_Next_Line</strong>
 </td>
 <td>
 <div align="center">
@@ -204,9 +188,7 @@
 
 <tr>
 <td>
-<strong>🌀 Fractol</strong><br>
-<!-- <em>Mathematical Visualization</em><br>
-<code>Graphics Programming</code> -->
+<strong>🌀 Fractol</strong>
 </td>
 <td>
 <div align="center">
@@ -232,9 +214,7 @@
 
 <tr>
 <td>
-<strong>🔄 Push_swap</strong><br>
-<!-- <em>Algorithm Optimization</em><br>
-<code>Computational Efficiency</code> -->
+<strong>🔄 Push_swap</strong>
 </td>
 <td>
 <div align="center">
@@ -260,9 +240,7 @@
 
 <tr>
 <td>
-<strong>🔗 Pipex</strong><br>
-<!-- <em>Inter-Process Communication</em><br>
-<code>System Architecture</code> -->
+<strong>🔗 Pipex</strong>
 </td>
 <td>
 <div align="center">
@@ -309,9 +287,7 @@
 
 <tr>
 <td>
-<strong>🧠 Philosophers</strong><br>
-<!-- <em>Concurrent Programming</em><br>
-<code>Parallel Computing</code> -->
+<strong>🧠 Philosophers</strong>
 </td>
 <td>
 <div align="center">
@@ -337,9 +313,7 @@
 
 <tr>
 <td>
-<strong>🐚 Minishell</strong><br>
-<!-- <em>Shell Implementation</em><br>
-<code>System Programming</code> -->
+<strong>🐚 Minishell</strong>
 </td>
 <td>
 <div align="center">
@@ -367,7 +341,6 @@
 
 ---
 
-
 ## 🌐 Network & Graphics Programming
 
 <div align="center">
@@ -387,9 +360,7 @@
 
 <tr>
 <td>
-<strong>🌐 NetPractice</strong><br>
-<!-- <em>Network Architecture</em><br>
-<code>Infrastructure Design</code> -->
+<strong>🌐 NetPractice</strong>
 </td>
 <td>
 <div align="center">
@@ -404,9 +375,7 @@
 </div>
 </td>
 <td>
-<code>TCP/IP Protocols</code><br>
-<!-- <code>Subnetting</code><br>
-<code>Network Topology</code> -->
+<code>TCP/IP Protocols</code>
 </td>
 <td>
 <em>Complex network architecture optimization</em>
@@ -415,9 +384,7 @@
 
 <tr>
 <td>
-<strong>🎮 Cub3D</strong><br>
-<!-- <em>3D Graphics Engine</em><br>
-<code>Game Development</code> -->
+<strong>🎮 Cub3D</strong>
 </td>
 <td>
 <div align="center">
@@ -443,9 +410,7 @@
 
 <tr>
 <td>
-<strong>💬 ft_irc</strong><br>
-<!-- <em>Real-time Communication Server</em><br>
-<code>Network Programming</code> -->
+<strong>💬 ft_irc</strong>
 </td>
 <td>
 <div align="center">
@@ -471,9 +436,7 @@
 
 <tr>
 <td>
-<strong>🐳 Inception</strong><br>
-<!-- <em>Container Orchestration</em><br>
-<code>DevOps Engineering</code> -->
+<strong>🐳 Inception</strong>
 </td>
 <td>
 <div align="center">
@@ -499,12 +462,6 @@
 
 </table>
 
-
-
-
-
-
-
 ---
 
 ## 🎯 Object-Oriented Programming Mastery
@@ -525,9 +482,7 @@
 
 <tr>
 <td>
-<strong>🔥 C++ Modules 00-09</strong><br>
-<!-- <em>Complete OOP Mastery</em><br>
-<code>Enterprise Development</code> -->
+<strong>🔥 C++ Modules 00-09</strong>
 </td>
 <td>
 <div align="center">
@@ -555,6 +510,44 @@
 
 ---
 
+## 💻 Full-Stack Web Application
+
+<div align="center">
+
+### *"Complete Creative Freedom, Modern Web Architecture"*
+
+</div>
+
+<table>
+<tr>
+<th width="20%">🎯 Project</th>
+<th width="15%">⚡ Status</th>
+<th width="20%">⏱️ Duration</th>
+<th width="45%">📄 Description</th>
+</tr>
+
+<tr>
+<td>
+<strong>🌐 ft_transcendence</strong>
+</td>
+<td>
+<div align="center">
+<a href="https://github.com/KanekiEzz/1337_Ft_Transcendence_42">
+<img src="https://img.shields.io/badge/✅-COMPLETED-00FF41?style=for-the-badge&logoColor=white" alt="Completed"/>
+</div>
+</td>
+<td align="center">
+~245 hours
+</td>
+<td>
+<em>Design, develop, and organize a full-stack web application with complete creative freedom. Choose your project concept, select from a wide range of technical modules, and make key architectural decisions. This highly flexible project allows you to explore modern web development while demonstrating your technical skills and creativity through a modular approach.</em>
+</td>
+</tr>
+
+</table>
+
+---
+
 ## 📊 Technical Competency Validation
 
 <div align="center">
@@ -574,9 +567,7 @@
 
 <tr>
 <td>
-<strong>📊 Rank 02 Exam</strong><br>
-<!-- <em>Intermediate Mastery</em><br>
-<code>Algorithmic Thinking</code> -->
+<strong>📊 Rank 02 Exam</strong>
 </td>
 <td>
 <div align="center">
@@ -602,9 +593,7 @@
 
 <tr>
 <td>
-<strong>🔥 Rank 03 Exam</strong><br>
-<!-- <em>Advanced Proficiency</em><br>
-<code>Complex Algorithms</code> -->
+<strong>🔥 Rank 03 Exam</strong>
 </td>
 <td>
 <div align="center">
@@ -630,9 +619,7 @@
 
 <tr>
 <td>
-<strong>⚡ Rank 04 Exam</strong><br>
-<!-- <em>Expert Mastery</em><br>
-<code>Advanced Optimization</code> -->
+<strong>⚡ Rank 04 Exam</strong>
 </td>
 <td>
 <div align="center">
@@ -656,33 +643,35 @@
 </td>
 </tr>
 
-
-
-<tr> 
+<tr>
 <td>
- <strong>🚀 Rank 05 Exam</strong>
- <br> <!-- <em>Advanced System & Algorithm Challenges</em><br> <code>Complex Problem Solving</code> --> </td>
-  <td>
-   <div align="center">
-    <img src="https://img.shields.io/badge/✅-PASSED-00FF41?style=for-the-badge&logoColor=white" alt="Passed"/>
-     </div>
-      </td>
-       <td> 
-       <div align="center">
-        <a href="https://github.com/KanekiEzz/Leet_05">
-         <img src="https://img.shields.io/badge/📁-SOLUTIONS-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-          </a>
-           </div> 
-           </td> 
-           <td> 
-           <br>
-            <code>PolySet: All 6 files</code>
-           <br> 
-           <code>Algorithms & Problem Solving Implemented robust and efficient solutions under exam constraintss</code> </td> <td> <em>Comprehensive mastery of system programming, object-oriented design, and algorithmic complexity</em> </td> </tr>
+<strong>🚀 Rank 05 Exam</strong>
+</td>
+<td>
+<div align="center">
+<img src="https://img.shields.io/badge/✅-PASSED-00FF41?style=for-the-badge&logoColor=white" alt="Passed"/>
+</div>
+</td>
+<td>
+<div align="center">
+<a href="https://github.com/KanekiEzz/Leet_05">
+<img src="https://img.shields.io/badge/📁-SOLUTIONS-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+</a>
+</div>
+</td>
+<td>
+<code>PolySet: All 6 files</code><br>
+<code>Algorithms & Problem Solving</code><br>
+<code>Robust solutions under exam constraints</code>
+</td>
+<td>
+<em>Comprehensive mastery of system programming, object-oriented design, and algorithmic complexity</em>
+</td>
+</tr>
 
 <tr>
 <td>
-<strong>⚡ Rank 06 Exam</strong><br>
+<strong>⚡ Rank 06 Exam</strong>
 </td>
 <td>
 <div align="center">
@@ -748,7 +737,6 @@
 </table>
 
 ### **Professional Competencies**
-<div align="center">
 
 ```
 🎯 Software Architecture        ████████████████████ 100%
@@ -760,7 +748,7 @@
 📊 Performance Optimization    ████████████████████ 100%
 🤝 Collaborative Development   ████████████████████ 100%
 ```
-</div>
+
 </div>
 
 ---
@@ -787,7 +775,7 @@
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/🎯-Exams_Passed-00FF41?style=for-the-badge&logoColor=white" alt="Exams"/>
-<br><strong>3 Technical Assessments</strong>
+<br><strong>5 Technical Assessments</strong>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/⚡-Lines_of_Code-00FF41?style=for-the-badge&logoColor=white" alt="Code"/>
@@ -814,26 +802,18 @@
 
 ## 🤝 Professional Network
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KanekiEzz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 🌟 *"Transforming Complex Challenges Into Elegant Solutions"* 🌟
 
 #### 🚀 **Open to Collaboration on Revolutionary Software Projects** 🚀
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=50&lines=Innovation+Through+Code;Excellence+Through+Collaboration;Future+Through+Technology" alt="Closing Message" />
-
-</div>
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
